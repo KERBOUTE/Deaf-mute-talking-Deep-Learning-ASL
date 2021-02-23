@@ -58,7 +58,7 @@ This will help you in installing all the libraries required for the project.
 
 ## Schema
 
-![Architecture Schema](./schema.JPG)
+![Architecture Schema](./schema.png)
 
 
 ## Status
