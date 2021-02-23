@@ -17,8 +17,6 @@ of Upstream and Downstream Data Flows
 * [Dataset](#dataset)
 * [Models and Architectures](#models-and-architectures)
 * [Schema](#schema)
-* [Process](#process)
-* [Status](#status)
 * [Contact](#contact)
 
 ## General info
@@ -60,19 +58,12 @@ This will help you in installing all the libraries required for the project.
 
 ![Architecture Schema](./schema.png)
 
-
-## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). If you would like us to implement the project end-to-end for you please book a [session](https://link.harshgupta.com/5e580). 
-
 ## Contact
-Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
+Created by me [Amine KERBOUTE](https://github.com/KERBOUTE)
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@harshgupta.com" target="_blank">email</a>, 
-<a href="https://link.harshgupta.com/c9a5b" target="_blank">LinkedIn</a>, or 
-<a href="https://link.harshgupta.com/34c63" target="_blank">Twitter</a>. 
-My other projects can be found [here](https://link.harshgupta.com/85f2e).
-
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](https://link.harshgupta.com/e144a)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](https://link.harshgupta.com/34c63)
+just want to shoot a question, please feel free to connect with me on <a href="aminekerboute@gmail.com" target="_blank">email</a>, 
+<a href="https://www.linkedin.com/in/amine-kerboute/" target="_blank">LinkedIn</a>, or 
+<a href="https://twitter.com/KerbouteA" target="_blank">Twitter</a>. 
+My other projects can be found [here](https://github.com/KERBOUTE?tab=repositories).
 
